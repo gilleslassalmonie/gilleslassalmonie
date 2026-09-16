@@ -1,4 +1,3 @@
-# Gilles Lassalmonie
 # Hi, I'm Gilles 👋
 
 🎓 Finance & Computer Engineering student at EDHEC Business School and UTC  
