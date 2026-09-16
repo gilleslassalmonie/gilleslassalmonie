@@ -59,4 +59,4 @@ AI agent designed to automate code refactoring.
 
 ## Contact
 
-[LinkedIn]:https://www.linkedin.com/in/gilles-lassalmonie-55275b2b0/
+[LinkedIn](https://www.linkedin.com/in/gilles-lassalmonie-55275b2b0/)
