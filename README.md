@@ -42,7 +42,7 @@ Currently looking for a 6-month internship in Data / AI starting January 2027.
 
 ## Projects
 
-🔹 [Demand Forecasting with scikit-learn] 
+🔹 [Demand Forecasting] 
 Machine learning project for sales forecasting using temporal features and
 scikit-learn.
 
