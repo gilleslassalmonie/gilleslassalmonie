@@ -43,14 +43,14 @@ Currently looking for a 6-month internship in Data / AI starting January 2027.
 
 ## Projects
 
-🔹 [Demand Forecasting with scikit-learn](LINK)  
+🔹 [Demand Forecasting with scikit-learn] 
 Machine learning project for sales forecasting using temporal features and
 scikit-learn.
 
-🔹 [AI Market Data Agent](LINK)  
+🔹 [AI Market Data Agent] 
 AI agent for automated market data collection and analysis.
 
-🔹 [AI Code Refactoring Agent](LINK)  
+🔹 [AI Code Refactoring Agent]  
 AI agent designed to automate code refactoring.
 
 ## Education
