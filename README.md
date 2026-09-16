@@ -35,7 +35,6 @@ Currently looking for a 6-month internship in Data / AI starting January 2027.
 - NumPy
 - scikit-learn
 - Google GenAI
-- CrewAI
 
 **Tools**
 - Databricks
@@ -61,4 +60,4 @@ AI agent designed to automate code refactoring.
 
 ## Contact
 
-[LinkedIn](YOUR_LINKEDIN)
+[LinkedIn]((https://www.linkedin.com/in/gilles-lassalmonie-55275b2b0/))
