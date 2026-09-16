@@ -33,6 +33,7 @@ Currently looking for a 6-month internship in Data / AI starting January 2027.
 - Pandas
 - NumPy
 - scikit-learn
+- Matplotlib
 - Google GenAI
 
 **Tools**
